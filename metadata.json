@@ -1,0 +1,7 @@
+{
+  "name": "Nagpur Capability Map",
+  "description": "Civic intelligence platform mapping Nagpur's talent, skills, economic clusters, and future opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
